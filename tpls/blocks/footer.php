@@ -15,14 +15,6 @@ defined('_JEXEC') or die;
 ?>
 
 
-<!-- ADDTHIS -->
-<div id="addthis-wrap" class="addthis-wrap">
-  <button class="btn btn-primary" title="Addthis"><i class="fa fa-share-alt"></i></button>
-  <!-- Go to www.addthis.com/dashboard to customize your tools -->
-  <div class="addthis_vertical_follow_toolbox"></div>
-</div>
-
-
 <!-- BACK TOP TOP BUTTON -->
 <div id="back-to-top" data-spy="affix" data-offset-top="300" class="back-to-top hidden-xs hidden-sm affix-top">
   <button class="btn btn-inverse" title="Back to Top"><i class="icon-arrow-up fa fa-angle-double-up"></i></button>
